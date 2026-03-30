@@ -1,0 +1,9 @@
+[submodule "external/NeuS"]
+	path = external/NeuS
+	url = git@github.com:antonin-tarrade/NeuS.git
+[submodule "external/NeuS2"]
+	path = external/NeuS2
+	url = git@github.com:antonin-tarrade/NeuS2.git
+[submodule "external/neuralangelo"]
+	path = external/neuralangelo
+	url = git@github.com:antonin-tarrade/neuralangelo.git
