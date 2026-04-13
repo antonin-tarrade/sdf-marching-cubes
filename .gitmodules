@@ -7,3 +7,6 @@
 [submodule "external/neuralangelo"]
 	path = external/neuralangelo
 	url = git@github.com:antonin-tarrade/neuralangelo.git
+[submodule "external/RNb-NeuS2"]
+	path = external/RNb-NeuS2
+	url = git@github.com:antonin-tarrade/RNb-NeuS2.git
